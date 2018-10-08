@@ -34,4 +34,4 @@ Example (included in test_graph.txt):
 4 5
 ```
 
-To use more files, simply make another call to the checkDominatingSet() function in main() specifying the filename you wish to test.
+To use more files, simply make another call to the checkDominatingSet() function in main() specifying the file name you wish to test.
